@@ -1,4 +1,4 @@
-const firebaseURL = 'https://your-project-id.firebaseio.com'; // Replace with your Firebase project URL
+const firebaseURL = 'https://survey-c67c8-default-rtdb.europe-west1.firebasedatabase.app/';
 
 const brewingOptions = [
   'Ristretto', 'Espresso', 'Double Espresso', 'Lungo/Americano',
